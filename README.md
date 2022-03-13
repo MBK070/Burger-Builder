@@ -1,4 +1,4 @@
-This app has been scripted using React and deployed on Firebase
+This app has been scripted using React for both the Web and Mobile Screens, and has been deployed on Firebase.
 
 Built a burger building application that mimics a portion of how a real world food delivery application works, where we can dynamically build a burger, add ingredients and then in the end of course also purchase it.
 
